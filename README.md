@@ -87,7 +87,7 @@ The repository and dependencies can be built with the following:
 The dependencies can be built with the following:
   ```
   .\build-deps.cmd
-  .\build.sh
+  .\build.cmd
   ``` 
 
 ## Running
